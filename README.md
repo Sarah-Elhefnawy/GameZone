@@ -38,6 +38,11 @@ Object-Oriented Programming (OOP) principles in C#
 ## Getting Started
 
 1. Clone the repository to your local machine.
+   <br>
+   
+   ```
+      git clone          https://github.com/yourusername/GameZone.git
+   ```
 2. Open the solution file in Visual Studio.
 3. Ensure that you have the necessary dependencies installed, such as the .NET SDK and Entity Framework Core tools.
 4. Update the database connection string in the appsettings.json file to match your local environment.
